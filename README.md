@@ -1,4 +1,4 @@
-# RADI_Taiwan_2020
+# Elavation_migration_Taiwan_2022
 
 RADI_Taiwan is a project aiming to create avian species distribution maps using eBird data. The method was adapted from Status and Trends products by Cornell Lab of Ornithology ([Fink et al., 2020](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2056)).
 
