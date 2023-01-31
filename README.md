@@ -5,6 +5,8 @@ RADI_Taiwan is a project aiming to create avian species distribution maps using 
 ## Products
 static data distribution to the animation
 
+![Example results](demonstrate.png)
+
 ## Workflow
 The following two diagrams are demonstrating the usage of the functions and the general workflow in this project. 
 
