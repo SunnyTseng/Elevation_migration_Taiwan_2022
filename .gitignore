@@ -1,0 +1,11 @@
+# R files
+.Rhistory
+.Rapp.history
+.RData
+
+
+# Data including eBird and GIS variables
+data/
+
+# Documents including the writing 
+docs/
